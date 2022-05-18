@@ -1,0 +1,35 @@
+name: kkdds
+description: A new Flutter project.
+publish_to: none
+version: 1.0.0+1
+environment: 
+  sdk: '>=2.16.2 <3.0.0'
+dependencies: 
+  flutter: 
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  widgetbook: 2.0.5-beta
+  auto_size_text: 3.0.0
+  flutter_svg: ^1.0.3
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+  flutter_lints: ^1.0.0
+flutter: 
+  uses-material-design: true
+  assets: 
+    - packages/kkdds/assets/images/group316.svg
+    - packages/kkdds/assets/images/group324.svg
+    - packages/kkdds/assets/images/navigationback.svg
+    - packages/kkdds/assets/images/line32.svg
+    - packages/kkdds/assets/images/line34.svg
+    - packages/kkdds/assets/images/orodivider.svg
+    - packages/kkdds/assets/images/ellipse82.png
+    - packages/kkdds/assets/images/kaasumaalai.png
+    - packages/kkdds/assets/images/babyfingerring.png
+    - packages/kkdds/assets/images/broadbangle.png
+    - packages/kkdds/assets/images/notch.svg
+    - packages/kkdds/assets/images/battery.svg
+    - packages/kkdds/assets/images/wifi.png
+    - packages/kkdds/assets/images/mobilesignal.png
+    - packages/kkdds/assets/images/time.svg
